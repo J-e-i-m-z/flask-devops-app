@@ -1,0 +1,16 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "A simple test project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Building project...'"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "yarn": "^1.22.19"
+  }
+}
